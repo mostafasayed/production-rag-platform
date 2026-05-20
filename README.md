@@ -1,2 +1,2 @@
 # production-rag-platform
-Production-oriented RAG platform with document ingestion, chunking, embeddings, vector search, citations, streaming responses, chat history, evaluation scoring, and observability.
+A production-style Retrieval-Augmented Generation system demonstrating vector search, document intelligence, AI evaluations, and reliable LLM integration patterns.
